@@ -48,6 +48,36 @@ Fungsi ini mencari indeks mahasiswa berdasarkan NIM. Jika ditemukan, mengembalik
 
 6. Fungsi main
 
+<img width="197" alt="Def Main" src="https://github.com/user-attachments/assets/fc3e7bed-eb0c-47cd-a134-937fcf0b5755">
+
+Fungsi main adalah titik masuk program. Ini menginisialisasi daftar mahasiswa dan memasuki loop untuk menerima input dari pengguna.
+
+Menangani Pilihan Pengguna
+Tambah Mahasiswa ('t'):
+
+Meminta input NIM, nama, dan nilai, kemudian menambahkan objek Student ke dalam daftar students.
+Lihat Mahasiswa ('l'):
+
+Memanggil fungsi display_students untuk menampilkan daftar mahasiswa.
+Ubah Mahasiswa ('u'):
+
+Menampilkan daftar mahasiswa, meminta NIM mahasiswa yang ingin diubah, dan jika ditemukan, meminta input baru dan memperbarui data mahasiswa.
+Hapus Mahasiswa ('h'):
+
+Menampilkan daftar mahasiswa, meminta NIM mahasiswa yang ingin dihapus, dan jika ditemukan, menghapus data mahasiswa dari daftar.
+Cari Mahasiswa ('c'):
+
+Meminta NIM mahasiswa yang dicari dan menampilkan detailnya jika ditemukan.
+Keluar ('k'):
+
+Menghentikan loop dan keluar dari program.
+Pilihan Tidak Valid:
+
+Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
+
+7. Menjalankan Program
+
+<img width="182" alt="If Name Main" src="https://github.com/user-attachments/assets/a94003b5-6af8-4712-b197-d0c55b18b594">
 
 
 
