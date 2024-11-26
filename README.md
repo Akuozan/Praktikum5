@@ -19,6 +19,14 @@ Baris ini mencetak judul program dan garis pemisah untuk memberikan konteks kepa
 
 2. Kelas Student
 
+<img width="275" alt="class" src="https://github.com/user-attachments/assets/f410862e-480b-4c99-abda-ce6b619f8bcc">
+
+Kelas Student: Kelas ini digunakan untuk merepresentasikan seorang mahasiswa
+__init__ Method: Ini adalah konstruktor yang dipanggil saat objek Student dibuat. Ini menerima NIM, nama, nilai tugas, UTS, dan UAS sebagai parameter. Nilai akhir dihitung dengan memanggil metode calculate_final_grade.
+
+
+
+
 
 
 
