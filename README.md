@@ -102,6 +102,21 @@ Baris ini memastikan bahwa fungsi main hanya akan dijalankan jika file ini dieks
 
 <img width="257" alt="Data ubah" src="https://github.com/user-attachments/assets/c35ec82e-01d4-4667-a699-966c38ec7ab1">
 
+6. Melihat Daftar Mahasiswa Setelah Diubah Memilih 'L' lagi untuk melihat daftar mahasiswa setelah perubahan:
+
+<img width="400" alt="Ubah LAgi" src="https://github.com/user-attachments/assets/eddd20af-c173-427b-9cd3-6fc468427160">
+
+7. Menghapus Mahasiswa Jika Anda memilih 'H' untuk menghapus mahasiswa:
+
+<img width="252" alt="Mahasiswa di HApus" src="https://github.com/user-attachments/assets/2a2e982f-75c1-4c62-8dfb-64138611f007">
+
+8. Mencari Mahasiswa Jika Anda memilih 'C' untuk mencari mahasiswa:
+
+
+
+
+
+
 
 
 
