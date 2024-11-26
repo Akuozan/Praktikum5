@@ -100,6 +100,10 @@ Baris ini memastikan bahwa fungsi main hanya akan dijalankan jika file ini dieks
 
 5. Mengubah Data Mahasiswa Jika Anda memilih 'U' dan memasukkan NIM mahasiswa yang ingin diubah:
 
+<img width="257" alt="Data ubah" src="https://github.com/user-attachments/assets/c35ec82e-01d4-4667-a699-966c38ec7ab1">
+
+
+
 
 
 
