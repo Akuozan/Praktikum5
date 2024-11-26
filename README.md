@@ -112,6 +112,13 @@ Baris ini memastikan bahwa fungsi main hanya akan dijalankan jika file ini dieks
 
 8. Mencari Mahasiswa Jika Anda memilih 'C' untuk mencari mahasiswa:
 
+<img width="302" alt="Mencari Mahasiswa" src="https://github.com/user-attachments/assets/cb373e2a-482d-4c95-871f-543216c2ef95">
+
+9. Keluar dari Program Jika Anda memilih 'K', program akan berhenti:
+
+<img width="281" alt="Keluar" src="https://github.com/user-attachments/assets/0ad9f8f0-9f9b-4157-80f3-7f55d762d37b">
+
+
 
 
 
