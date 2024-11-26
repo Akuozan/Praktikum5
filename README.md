@@ -96,6 +96,12 @@ Baris ini memastikan bahwa fungsi main hanya akan dijalankan jika file ini dieks
 
 4. Melihat Daftar Mahasiswa Jika Anda memilih 'L', program akan menampilkan daftar mahasiswa:
 
+<img width="390" alt="Daftar Nilai" src="https://github.com/user-attachments/assets/40d1912f-127e-40d7-83d0-2d327c790e24">
+
+5. Mengubah Data Mahasiswa Jika Anda memilih 'U' dan memasukkan NIM mahasiswa yang ingin diubah:
+
+
+
 
 
 
