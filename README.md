@@ -36,6 +36,19 @@ Fungsi ini menampilkan menu pilihan kepada pengguna untuk melihat, menambah, men
 
 4.Fungsi display_students
 
+<img width="576" alt="Display student" src="https://github.com/user-attachments/assets/67718f7c-c7de-4161-9ead-6c1d756d9878">
+
+Fungsi ini menampilkan daftar mahasiswa dalam format tabel. Jika tidak ada mahasiswa, akan menampilkan pesan "TIDAK ADA DATA".
+
+5. Fungsi find_student_index
+
+<img width="272" alt="Student Index 2024-11-26 152248" src="https://github.com/user-attachments/assets/7c458884-faef-4b1a-a62c-b08332fe5a1f">
+
+Fungsi ini mencari indeks mahasiswa berdasarkan NIM. Jika ditemukan, mengembalikan indeksnya; jika tidak, mengembalikan None
+
+6. Fungsi main
+
+
 
 
 
