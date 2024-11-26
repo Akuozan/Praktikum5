@@ -8,4 +8,8 @@ Mata kuliah : Bahasa Pemrograman
 # program input nilai
 Flowchart
 
+![Flowchart](https://github.com/user-attachments/assets/f159040e-aae1-4dc2-b05f-9e577b027dba)
+
+# Penjelasan 
+
 
