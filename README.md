@@ -84,6 +84,21 @@ Baris ini memastikan bahwa fungsi main hanya akan dijalankan jika file ini dieks
 # hasil perogram
 1. Menjalankan Program Setelah menjalankan program, Anda akan melihat output awal seperti ini:
 
+<img width="116" alt="Program input" src="https://github.com/user-attachments/assets/1010ef99-9ace-4a92-a2e9-de132188cc47">
+
+2. Menampilkan Menu Program akan menampilkan menu pilihan:
+
+<img width="269" alt="Menampilkan Menu" src="https://github.com/user-attachments/assets/f1f158aa-bc11-41ca-84ba-df6b0d3dbdd5">
+
+3. Menambah Mahasiswa Jika Anda memilih untuk menambah mahasiswa dengan memasukkan 'T', program akan meminta Anda untuk memasukkan data:
+
+<img width="304" alt="Hasil run" src="https://github.com/user-attachments/assets/c29c0d0e-3d90-4ff3-a58c-d879b09c7a38">
+
+4. Melihat Daftar Mahasiswa Jika Anda memilih 'L', program akan menampilkan daftar mahasiswa:
+
+
+
+
 
 
 
