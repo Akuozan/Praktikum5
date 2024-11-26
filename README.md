@@ -79,6 +79,13 @@ Jika pilihan tidak dikenali, menampilkan pesan bahwa pilihan tidak valid.
 
 <img width="182" alt="If Name Main" src="https://github.com/user-attachments/assets/a94003b5-6af8-4712-b197-d0c55b18b594">
 
+Baris ini memastikan bahwa fungsi main hanya akan dijalankan jika file ini dieksekusi sebagai program utama, bukan jika diimpor sebagai modul.
+
+# hasil perogram
+1. Menjalankan Program Setelah menjalankan program, Anda akan melihat output awal seperti ini:
+
+
+
 
 
 
